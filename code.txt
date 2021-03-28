@@ -1,0 +1,2 @@
+utf 8 is used for encoding all those international symbols  it will include every language and if we encode with any other language
+it may not include the every language properly
